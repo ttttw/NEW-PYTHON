@@ -4,9 +4,9 @@ import asyncio
 
 # Start Bot Client
 app = Client('bots',
-    bot_token='<API_KEY>',  # BOT_TOKN or API_KEY
-    api_id=123457678, # API_ID TELEGRAM ACCOUNT
-    api_hash='95f5f60466a64ttn7a34f297c734d0568') # API_HASH TELEGRAM ACCOUNT
+    bot_token='6984532857:AAFaqa5FHGCmAfbJEir_8t54PuXOpftxCj4',  # BOT_TOKN or API_KEY
+    api_id=13182111, # API_ID TELEGRAM ACCOUNT
+    api_hash='c111d0edb677b09253e5a56063032b2d') # API_HASH TELEGRAM ACCOUNT
 
 #Welcoem message
 WELCOME_MESSAGE = """ ↫ Welcome To From Group .
